@@ -1,18 +1,66 @@
 {
-  "Josh Jacobs": 1,
-  "Russell WIlson": 2,
-  "Cooper Kupp": 3,
-  "Marquis Brown": 4,
-  "Cam Akers": 4,
-  "CeeDee Lamb": 5,
-  "Antonio Gibson": 8,
-  "Lynn Bowden Jr.": 10,
-  "Brandon McManus": 10,
-  "Washington DST": 10,
-  "Stephen Goskowski": 10,
-  "Justin Herbert": 10,
-  "Jalen Raegor": 11,
-  "Baker Mayfield": 11,
-  "Joe Burrow": 11,
-  "Clyde Edwards Helaire": 0
+  "Josh Jacobs": {
+    "kept": false,
+    "value": 1
+  },
+  "Russell Wilson": {
+    "kept": false,
+    "value": 2
+  },
+  "Cooper Kupp": {
+    "kept": false,
+    "value": 3
+  },
+  "Marquis Brown": {
+    "kept": false,
+    "value": 4
+  },
+  "Cam Akers": {
+    "kept": false,
+    "value": 4
+  },
+  "CeeDee Lamb": {
+    "kept": false,
+    "value": 5
+  },
+  "Antonio Gibson": {
+    "kept": false,
+    "value": 8
+  },
+  "Lynn Bowden Jr.": {
+    "kept": false,
+    "value": 10
+  },
+  "Brandon McManus": {
+    "kept": false,
+    "value": 10
+  },
+  "Washington DST": {
+    "kept": false,
+    "value": 10
+  },
+  "Stephen Goskowski": {
+    "kept": false,
+    "value": 10
+  },
+  "Justin Herbert": {
+    "kept": false,
+    "value": 10
+  },
+  "Jalen Raegor": {
+    "kept": false,
+    "value": 11
+  },
+  "Baker Mayfield": {
+    "kept": false,
+    "value": 11
+  },
+  "Joe Burrow": {
+    "kept": false,
+    "value": 11
+  },
+  "Clyde Edwards Helaire": {
+    "kept": false,
+    "value": 0
+  }
 }

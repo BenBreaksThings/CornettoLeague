@@ -1,18 +1,66 @@
 {
-  "Stefon Diggs": 1,
-  "Chris Godwin": 2,
-  "Hunter Henry": 3,
-  "Josh Allen": 4,
-  "Philip Lindsay": 5,
-  "Zack Moss": 7,
-  "Rob Gronkowski": 8,
-  "Gabriel Davis": 10,
-  "Benny Snell": 10,
-  "Denzel Mims": 10,
-  "Taysom Hill": 10,
-  "Courtland Sutton": 10,
-  "Tyler Bass": 14,
-  "Michael Pittman": 15,
-  "Indianapolis": 15,
-  "Christian McCaffrey": 0
+  "Stefon Diggs": {
+    "kept": false,
+    "value": 1
+  },
+  "Chris Godwin": {
+    "kept": false,
+    "value": 2
+  },
+  "Hunter Henry": {
+    "kept": false,
+    "value": 3
+  },
+  "Josh Allen": {
+    "kept": false,
+    "value": 4
+  },
+  "Philip Lindsay": {
+    "kept": false,
+    "value": 5
+  },
+  "Zack Moss": {
+    "kept": false,
+    "value": 7
+  },
+  "Rob Gronkowski": {
+    "kept": false,
+    "value": 8
+  },
+  "Gabriel Davis": {
+    "kept": false,
+    "value": 10
+  },
+  "Benny Snell": {
+    "kept": false,
+    "value": 10
+  },
+  "Denzel Mims": {
+    "kept": false,
+    "value": 10
+  },
+  "Taysom Hill": {
+    "kept": false,
+    "value": 10
+  },
+  "Courtland Sutton": {
+    "kept": false,
+    "value": 10
+  },
+  "Tyler Bass": {
+    "kept": false,
+    "value": 14
+  },
+  "Michael Pittman": {
+    "kept": false,
+    "value": 15
+  },
+  "Indianapolis": {
+    "kept": false,
+    "value": 15
+  },
+  "Christian McCaffrey": {
+    "kept": false,
+    "value": 0
+  }
 }

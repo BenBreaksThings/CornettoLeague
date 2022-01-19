@@ -1,22 +1,82 @@
 {
-  "Joe Mixon": 1,
-  "Travis Kelce": 1,
-  "Adam Thielen": 2,
-  "Calvin Ridley": 3,
-  "D'Andre Swift": 4,
-  "Jared Cook": 5,
-  "Matthew Stafford": 6,
-  "Mike Gesicki": 7,
-  "Justin Tucker": 7,
-  "Buffalo": 9,
-  "Henry Ruggs": 10,
-  "Jordan Wilkins": 10,
-  "Keelan Cole": 10,
-  "Marquez Valdes-Scantling": 10,
-  "Ross Dwelly": 10,
-  "Kirk Cousins": 11,
-  "Kareem Hunt": 11,
-  "Boston Scott": 12,
-  "Curtis Samuel": 13,
-  "Derrick Henry": 0
+  "Joe Mixon": {
+    "kept": false,
+    "value": 1
+  },
+  "Travis Kelce": {
+    "kept": false,
+    "value": 1
+  },
+  "Adam Thielen": {
+    "kept": false,
+    "value": 2
+  },
+  "Calvin Ridley": {
+    "kept": false,
+    "value": 3
+  },
+  "D'Andre Swift": {
+    "kept": false,
+    "value": 4
+  },
+  "Jared Cook": {
+    "kept": false,
+    "value": 5
+  },
+  "Matthew Stafford": {
+    "kept": false,
+    "value": 6
+  },
+  "Mike Gesicki": {
+    "kept": false,
+    "value": 7
+  },
+  "Justin Tucker": {
+    "kept": false,
+    "value": 7
+  },
+  "Buffalo": {
+    "kept": false,
+    "value": 9
+  },
+  "Henry Ruggs": {
+    "kept": false,
+    "value": 10
+  },
+  "Jordan Wilkins": {
+    "kept": false,
+    "value": 10
+  },
+  "Keelan Cole": {
+    "kept": false,
+    "value": 10
+  },
+  "Marquez Valdes-Scantling": {
+    "kept": false,
+    "value": 10
+  },
+  "Ross Dwelly": {
+    "kept": false,
+    "value": 10
+  },
+  "Kirk Cousins": {
+    "kept": false,
+    "value": 11
+  },
+  "Kareem Hunt": {
+    "kept": false,
+    "value": 11
+  },
+  "Boston Scott": {
+    "kept": false,
+    "value": 12
+  },
+  "Curtis Samuel": {
+    "kept": false,
+    "value": 13
+  },
+  "Derrick Henry": {
+    "kept": false,
+    "value": 0
+  }
 }

@@ -1,16 +1,58 @@
 {
-  "Mike Evans": 2,
-  "DJ Chark": 3,
-  "David Johnson": 4,
-  "Kenyan Drake": 4,
-  "Will Fuller": 5,
-  "AJ Brown": 9,
-  "Damien Harris": 9,
-  "Ben Roethlisberger": 10,
-  "Dak Prescott": 10,
-  "La'Michael Perine": 10,
-  "James Robinson": 10,
-  "Laviska Shenault": 11,
-  "Dallas Goedert": 12,
-  "TJ Hockenson": 13
+  "Mike Evans": {
+    "kept": false,
+    "value": 2
+  },
+  "DJ Chark": {
+    "kept": false,
+    "value": 3
+  },
+  "David Johnson": {
+    "kept": false,
+    "value": 4
+  },
+  "Kenyan Drake": {
+    "kept": false,
+    "value": 4
+  },
+  "Will Fuller": {
+    "kept": false,
+    "value": 5
+  },
+  "AJ Brown": {
+    "kept": false,
+    "value": 9
+  },
+  "Damien Harris": {
+    "kept": false,
+    "value": 9
+  },
+  "Ben Roethlisberger": {
+    "kept": false,
+    "value": 10
+  },
+  "Dak Prescott": {
+    "kept": false,
+    "value": 10
+  },
+  "La'Michael Perine": {
+    "kept": false,
+    "value": 10
+  },
+  "James Robinson": {
+    "kept": false,
+    "value": 10
+  },
+  "Laviska Shenault": {
+    "kept": false,
+    "value": 11
+  },
+  "Dallas Goedert": {
+    "kept": false,
+    "value": 12
+  },
+  "TJ Hockenson": {
+    "kept": false,
+    "value": 13
+  }
 }

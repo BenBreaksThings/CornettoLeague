@@ -1,20 +1,74 @@
 {
-  "Patrick Mahomes": 1,
-  "Odell Beckham": 1,
-  "Jonathan Taylor": 2,
-  "AJ Green": 5,
-  "Hayden Hurst": 6,
-  "Jamison Crowder": 7,
-  "Pittsburgh": 8,
-  "Wil Lutz": 9,
-  "JD McKissic": 10,
-  "Danny Amendola": 10,
-  "Malcom Brown": 10,
-  "Salvon Ahmed": 10,
-  "Aaron Rodgers": 10,
-  "Allen Lazard": 12,
-  "Austin Hooper": 13,
-  "Frank Gore": 15,
-  "Davante Adams": 0,
-  "Saquon Barkley": 0
+  "Patrick Mahomes": {
+    "kept": false,
+    "value": 1
+  },
+  "Odell Beckham": {
+    "kept": false,
+    "value": 1
+  },
+  "Jonathan Taylor": {
+    "kept": false,
+    "value": 2
+  },
+  "AJ Green": {
+    "kept": false,
+    "value": 5
+  },
+  "Hayden Hurst": {
+    "kept": false,
+    "value": 6
+  },
+  "Jamison Crowder": {
+    "kept": false,
+    "value": 7
+  },
+  "Pittsburgh": {
+    "kept": false,
+    "value": 8
+  },
+  "Wil Lutz": {
+    "kept": false,
+    "value": 9
+  },
+  "JD McKissic": {
+    "kept": false,
+    "value": 10
+  },
+  "Danny Amendola": {
+    "kept": false,
+    "value": 10
+  },
+  "Malcom Brown": {
+    "kept": false,
+    "value": 10
+  },
+  "Salvon Ahmed": {
+    "kept": false,
+    "value": 10
+  },
+  "Aaron Rodgers": {
+    "kept": false,
+    "value": 10
+  },
+  "Allen Lazard": {
+    "kept": false,
+    "value": 12
+  },
+  "Austin Hooper": {
+    "kept": false,
+    "value": 13
+  },
+  "Frank Gore": {
+    "kept": false,
+    "value": 15
+  },
+  "Davante Adams": {
+    "kept": false,
+    "value": 0
+  },
+  "Saquon Barkley": {
+    "kept": false,
+    "value": 0
+  }
 }

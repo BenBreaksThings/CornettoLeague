@@ -1,18 +1,66 @@
 {
-  "DJ Moore": 1,
-  "Melvin Gordon ": 2,
-  "DeVante Parker": 3,
-  "Miles Sanders": 4,
-  "Raheem Mostert": 6,
-  "Noah Fant": 7,
-  "Latavius Murray": 8,
-  "DK Metcalf": 9,
-  "Derek Carr": 10,
-  "Antonio Brown": 10,
-  "Robert Tonyan": 10,
-  "Darrell Henderson": 10,
-  "Travis Fulgham": 10,
-  "Daniel Carlson": 10,
-  "Kansas City": 13,
-  "Mecole Hardman": 14
+  "DJ Moore": {
+    "kept": false,
+    "value": 1
+  },
+  "Melvin Gordon ": {
+    "kept": false,
+    "value": 2
+  },
+  "DeVante Parker": {
+    "kept": false,
+    "value": 3
+  },
+  "Miles Sanders": {
+    "kept": false,
+    "value": 4
+  },
+  "Raheem Mostert": {
+    "kept": false,
+    "value": 6
+  },
+  "Noah Fant": {
+    "kept": false,
+    "value": 7
+  },
+  "Latavius Murray": {
+    "kept": false,
+    "value": 8
+  },
+  "DK Metcalf": {
+    "kept": false,
+    "value": 9
+  },
+  "Derek Carr": {
+    "kept": false,
+    "value": 10
+  },
+  "Antonio Brown": {
+    "kept": false,
+    "value": 10
+  },
+  "Robert Tonyan": {
+    "kept": false,
+    "value": 10
+  },
+  "Darrell Henderson": {
+    "kept": false,
+    "value": 10
+  },
+  "Travis Fulgham": {
+    "kept": false,
+    "value": 10
+  },
+  "Daniel Carlson": {
+    "kept": false,
+    "value": 10
+  },
+  "Kansas City": {
+    "kept": false,
+    "value": 13
+  },
+  "Mecole Hardman": {
+    "kept": false,
+    "value": 14
+  }
 }

@@ -1,18 +1,66 @@
 {
-  "Julio Jones": 1,
-  "Amari Cooper": 2,
-  "Leonard Fournette": 3,
-  "Deshaun Watson": 4,
-  "Emmanuel Sanders": 4,
-  "Austin Ekeler": 5,
-  "Christian Kirk": 8,
-  "Anthony Miller": 8,
-  "Russell Gage": 10,
-  "Mike Davis": 10,
-  "Chase Claypool": 10,
-  "Tyron Johnson": 10,
-  "Ka'imi Fairbairn": 10,
-  "Darren Waller": 13,
-  "Tennessee": 15,
-  "Nick Chubb": 0
+  "Julio Jones": {
+    "kept": false,
+    "value": 1
+  },
+  "Amari Cooper": {
+    "kept": false,
+    "value": 2
+  },
+  "Leonard Fournette": {
+    "kept": false,
+    "value": 3
+  },
+  "Deshaun Watson": {
+    "kept": false,
+    "value": 4
+  },
+  "Emmanuel Sanders": {
+    "kept": false,
+    "value": 4
+  },
+  "Austin Ekeler": {
+    "kept": false,
+    "value": 5
+  },
+  "Christian Kirk": {
+    "kept": false,
+    "value": 8
+  },
+  "Anthony Miller": {
+    "kept": false,
+    "value": 8
+  },
+  "Russell Gage": {
+    "kept": false,
+    "value": 10
+  },
+  "Mike Davis": {
+    "kept": false,
+    "value": 10
+  },
+  "Chase Claypool": {
+    "kept": false,
+    "value": 10
+  },
+  "Tyron Johnson": {
+    "kept": false,
+    "value": 10
+  },
+  "Ka'imi Fairbairn": {
+    "kept": false,
+    "value": 10
+  },
+  "Darren Waller": {
+    "kept": false,
+    "value": 13
+  },
+  "Tennessee": {
+    "kept": false,
+    "value": 15
+  },
+  "Nick Chubb": {
+    "kept": false,
+    "value": 0
+  }
 }

@@ -1,20 +1,74 @@
 {
-  "Todd Gurley": 2,
-  "Le'Veon Bell": 3,
-  "Michael Gallup": 4,
-  "Evan Engram": 4,
-  "Jarvis Landry": 5,
-  "Kyler Murray": 7,
-  "Sterling Shepard": 8,
-  "Corey Davis": 10,
-  "Wayne Gallman": 10,
-  "Tim Patrick": 10,
-  "Keke Coutee": 10,
-  "Jamaal Williams": 10,
-  "Nelson Agholor": 10,
-  "Jalen Hurts": 10,
-  "Jason Sanders": 10,
-  "Carolina DST": 10,
-  "Devonta Freeman": 14,
-  "George Kittle": 0
+  "Todd Gurley": {
+    "kept": false,
+    "value": 2
+  },
+  "Le'Veon Bell": {
+    "kept": false,
+    "value": 3
+  },
+  "Michael Gallup": {
+    "kept": false,
+    "value": 4
+  },
+  "Evan Engram": {
+    "kept": false,
+    "value": 4
+  },
+  "Jarvis Landry": {
+    "kept": false,
+    "value": 5
+  },
+  "Kyler Murray": {
+    "kept": false,
+    "value": 7
+  },
+  "Sterling Shepard": {
+    "kept": false,
+    "value": 8
+  },
+  "Corey Davis": {
+    "kept": false,
+    "value": 10
+  },
+  "Wayne Gallman": {
+    "kept": false,
+    "value": 10
+  },
+  "Tim Patrick": {
+    "kept": false,
+    "value": 10
+  },
+  "Keke Coutee": {
+    "kept": false,
+    "value": 10
+  },
+  "Jamaal Williams": {
+    "kept": false,
+    "value": 10
+  },
+  "Nelson Agholor": {
+    "kept": false,
+    "value": 10
+  },
+  "Jalen Hurts": {
+    "kept": false,
+    "value": 10
+  },
+  "Jason Sanders": {
+    "kept": false,
+    "value": 10
+  },
+  "Carolina DST": {
+    "kept": false,
+    "value": 10
+  },
+  "Devonta Freeman": {
+    "kept": false,
+    "value": 14
+  },
+  "George Kittle": {
+    "kept": false,
+    "value": 0
+  }
 }

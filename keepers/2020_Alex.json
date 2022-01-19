@@ -1,20 +1,74 @@
 {
-  "Allen Robinson": 1,
-  "James Conner": 2,
-  "Tyler Lockett": 3,
-  "TY Hilton": 4,
-  "Matt Ryan": 5,
-  "JK Dobbins": 6,
-  "Mark Andrews": 6,
-  "Baltimore DST": 7,
-  "Harrison Butker": 8,
-  "Terry McLaurin": 9,
-  "Sammy Watkins": 10,
-  "Jakobi Meyers": 10,
-  "Jerick McKinnon": 10,
-  "Myles Gaskin": 10,
-  "Jared Goff": 11,
-  "Tony Pollard": 11,
-  "Deebo Samuel": 12,
-  "Ezekiel Elliott": 0
+  "Allen Robinson": {
+    "kept": false,
+    "value": 1
+  },
+  "James Conner": {
+    "kept": false,
+    "value": 2
+  },
+  "Tyler Lockett": {
+    "kept": false,
+    "value": 3
+  },
+  "TY Hilton": {
+    "kept": false,
+    "value": 4
+  },
+  "Matt Ryan": {
+    "kept": false,
+    "value": 5
+  },
+  "JK Dobbins": {
+    "kept": false,
+    "value": 6
+  },
+  "Mark Andrews": {
+    "kept": false,
+    "value": 6
+  },
+  "Baltimore DST": {
+    "kept": false,
+    "value": 7
+  },
+  "Harrison Butker": {
+    "kept": false,
+    "value": 8
+  },
+  "Terry McLaurin": {
+    "kept": false,
+    "value": 9
+  },
+  "Sammy Watkins": {
+    "kept": false,
+    "value": 10
+  },
+  "Jakobi Meyers": {
+    "kept": false,
+    "value": 10
+  },
+  "Jerick McKinnon": {
+    "kept": false,
+    "value": 10
+  },
+  "Myles Gaskin": {
+    "kept": false,
+    "value": 10
+  },
+  "Jared Goff": {
+    "kept": false,
+    "value": 11
+  },
+  "Tony Pollard": {
+    "kept": false,
+    "value": 11
+  },
+  "Deebo Samuel": {
+    "kept": false,
+    "value": 12
+  },
+  "Ezekiel Elliott": {
+    "kept": false,
+    "value": 0
+  }
 }

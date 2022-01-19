@@ -1,20 +1,74 @@
 {
-  "DeAndre Hopkins": 1,
-  "Kenny Golladay": 2,
-  "David Montgomery": 3,
-  "Dionte Johnson": 5,
-  "Devin Singletary": 7,
-  "Tom BRady": 7,
-  "Brandin Cooks": 8,
-  "Ryan Finley": 10,
-  "Vyncint Smith": 10,
-  "Austin Mack": 10,
-  "Trey Burton": 10,
-  "Troymaine Pope": 10,
-  "Austin Seibert": 10,
-  "Mike Williams": 11,
-  "Chase Edmonds": 13,
-  "New Orleans DST": 14,
-  "Nyheim HInes": 15,
-  "Michael Thomas": 0
+  "DeAndre Hopkins": {
+    "kept": false,
+    "value": 1
+  },
+  "Kenny Golladay": {
+    "kept": false,
+    "value": 2
+  },
+  "David Montgomery": {
+    "kept": false,
+    "value": 3
+  },
+  "Dionte Johnson": {
+    "kept": false,
+    "value": 5
+  },
+  "Devin Singletary": {
+    "kept": false,
+    "value": 7
+  },
+  "Tom BRady": {
+    "kept": false,
+    "value": 7
+  },
+  "Brandin Cooks": {
+    "kept": false,
+    "value": 8
+  },
+  "Ryan Finley": {
+    "kept": false,
+    "value": 10
+  },
+  "Vyncint Smith": {
+    "kept": false,
+    "value": 10
+  },
+  "Austin Mack": {
+    "kept": false,
+    "value": 10
+  },
+  "Trey Burton": {
+    "kept": false,
+    "value": 10
+  },
+  "Troymaine Pope": {
+    "kept": false,
+    "value": 10
+  },
+  "Austin Seibert": {
+    "kept": false,
+    "value": 10
+  },
+  "Mike Williams": {
+    "kept": false,
+    "value": 11
+  },
+  "Chase Edmonds": {
+    "kept": false,
+    "value": 13
+  },
+  "New Orleans DST": {
+    "kept": false,
+    "value": 14
+  },
+  "Nyheim HInes": {
+    "kept": false,
+    "value": 15
+  },
+  "Michael Thomas": {
+    "kept": false,
+    "value": 0
+  }
 }

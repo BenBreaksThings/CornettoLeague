@@ -1,18 +1,66 @@
 {
-  "Aaron Jones": 1,
-  "Juju Smith-Schuester": 2,
-  "Robert Woods": 3,
-  "Tyler Boyd": 4,
-  "Ronald Jones": 5,
-  "Drew Brees": 5,
-  "Marvin Jones": 6,
-  "Ryan Tannehill": 9,
-  "Justin Jefferson ": 10,
-  "Jerry Juedy": 10,
-  "Ty Johnson": 10,
-  "Rashard Higgins": 10,
-  "Chicago": 10,
-  "Tee Higgins": 12,
-  "Brandon Aiyuk": 13,
-  "Alvin Kamara": 0
+  "Aaron Jones": {
+    "kept": false,
+    "value": 1
+  },
+  "Juju Smith-Schuester": {
+    "kept": false,
+    "value": 2
+  },
+  "Robert Woods": {
+    "kept": false,
+    "value": 3
+  },
+  "Tyler Boyd": {
+    "kept": false,
+    "value": 4
+  },
+  "Ronald Jones": {
+    "kept": false,
+    "value": 5
+  },
+  "Drew Brees": {
+    "kept": false,
+    "value": 5
+  },
+  "Marvin Jones": {
+    "kept": false,
+    "value": 6
+  },
+  "Ryan Tannehill": {
+    "kept": false,
+    "value": 9
+  },
+  "Justin Jefferson ": {
+    "kept": false,
+    "value": 10
+  },
+  "Jerry Juedy": {
+    "kept": false,
+    "value": 10
+  },
+  "Ty Johnson": {
+    "kept": false,
+    "value": 10
+  },
+  "Rashard Higgins": {
+    "kept": false,
+    "value": 10
+  },
+  "Chicago": {
+    "kept": false,
+    "value": 10
+  },
+  "Tee Higgins": {
+    "kept": false,
+    "value": 12
+  },
+  "Brandon Aiyuk": {
+    "kept": false,
+    "value": 13
+  },
+  "Alvin Kamara": {
+    "kept": false,
+    "value": 0
+  }
 }

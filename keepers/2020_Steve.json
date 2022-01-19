@@ -1,18 +1,66 @@
 {
-  "Chris Carson": 2,
-  "Keenan Allen": 3,
-  "James White": 6,
-  "Lamar Jackson": 7,
-  "Philip Rivers": 9,
-  "Cole Beasley": 10,
-  "Chad Hansen": 10,
-  "Jeff Wilson": 10,
-  "Logan Thomas": 10,
-  "Giovani Bernard": 10,
-  "Robby Anderson": 10,
-  "Gus Edwards": 10,
-  "Jalen Guyton": 10,
-  "Jason Myers": 10,
-  "Miami": 10,
-  "Tyreek Hill": 0
+  "Chris Carson": {
+    "kept": false,
+    "value": 2
+  },
+  "Keenan Allen": {
+    "kept": false,
+    "value": 3
+  },
+  "James White": {
+    "kept": false,
+    "value": 6
+  },
+  "Lamar Jackson": {
+    "kept": false,
+    "value": 7
+  },
+  "Philip Rivers": {
+    "kept": false,
+    "value": 9
+  },
+  "Cole Beasley": {
+    "kept": false,
+    "value": 10
+  },
+  "Chad Hansen": {
+    "kept": false,
+    "value": 10
+  },
+  "Jeff Wilson": {
+    "kept": false,
+    "value": 10
+  },
+  "Logan Thomas": {
+    "kept": false,
+    "value": 10
+  },
+  "Giovani Bernard": {
+    "kept": false,
+    "value": 10
+  },
+  "Robby Anderson": {
+    "kept": false,
+    "value": 10
+  },
+  "Gus Edwards": {
+    "kept": false,
+    "value": 10
+  },
+  "Jalen Guyton": {
+    "kept": false,
+    "value": 10
+  },
+  "Jason Myers": {
+    "kept": false,
+    "value": 10
+  },
+  "Miami": {
+    "kept": false,
+    "value": 10
+  },
+  "Tyreek Hill": {
+    "kept": false,
+    "value": 0
+  }
 }
