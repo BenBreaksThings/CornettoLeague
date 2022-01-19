@@ -1,6 +1,6 @@
 {
   "Stefon Diggs": {
-    "kept": false,
+    "kept": true,
     "value": 1
   },
   "Chris Godwin": {
@@ -12,7 +12,7 @@
     "value": 3
   },
   "Josh Allen": {
-    "kept": false,
+    "kept": true,
     "value": 4
   },
   "Philip Lindsay": {
@@ -44,7 +44,7 @@
     "value": 10
   },
   "Courtland Sutton": {
-    "kept": false,
+    "kept": true,
     "value": 10
   },
   "Tyler Bass": {
