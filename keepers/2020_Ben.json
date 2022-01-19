@@ -32,7 +32,7 @@
     "value": 9
   },
   "Justin Jefferson ": {
-    "kept": false,
+    "kept": true,
     "value": 10
   },
   "Jerry Juedy": {
@@ -52,11 +52,11 @@
     "value": 10
   },
   "Tee Higgins": {
-    "kept": false,
+    "kept": true,
     "value": 12
   },
   "Brandon Aiyuk": {
-    "kept": false,
+    "kept": true,
     "value": 13
   },
   "Alvin Kamara": {
