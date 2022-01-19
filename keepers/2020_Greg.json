@@ -28,7 +28,7 @@
     "value": 8
   },
   "DK Metcalf": {
-    "kept": false,
+    "kept": true,
     "value": 9
   },
   "Derek Carr": {
@@ -44,7 +44,7 @@
     "value": 10
   },
   "Darrell Henderson": {
-    "kept": false,
+    "kept": true,
     "value": 10
   },
   "Travis Fulgham": {
@@ -60,7 +60,7 @@
     "value": 13
   },
   "Mecole Hardman": {
-    "kept": false,
+    "kept": true,
     "value": 14
   }
 }
