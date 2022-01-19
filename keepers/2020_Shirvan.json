@@ -20,7 +20,7 @@
     "value": 4
   },
   "Austin Ekeler": {
-    "kept": false,
+    "kept": true,
     "value": 5
   },
   "Christian Kirk": {
@@ -36,7 +36,7 @@
     "value": 10
   },
   "Mike Davis": {
-    "kept": false,
+    "kept": true,
     "value": 10
   },
   "Chase Claypool": {
@@ -52,7 +52,7 @@
     "value": 10
   },
   "Darren Waller": {
-    "kept": false,
+    "kept": true,
     "value": 13
   },
   "Tennessee": {
