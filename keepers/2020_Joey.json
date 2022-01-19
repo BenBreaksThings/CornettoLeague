@@ -20,7 +20,7 @@
     "value": 5
   },
   "AJ Brown": {
-    "kept": false,
+    "kept": true,
     "value": 9
   },
   "Damien Harris": {
@@ -32,7 +32,7 @@
     "value": 10
   },
   "Dak Prescott": {
-    "kept": false,
+    "kept": true,
     "value": 10
   },
   "La'Michael Perine": {
@@ -52,7 +52,7 @@
     "value": 12
   },
   "TJ Hockenson": {
-    "kept": false,
+    "kept": true,
     "value": 13
   }
 }
