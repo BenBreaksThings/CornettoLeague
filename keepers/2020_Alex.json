@@ -24,7 +24,7 @@
     "value": 6
   },
   "Mark Andrews": {
-    "kept": false,
+    "kept": true,
     "value": 6
   },
   "Baltimore DST": {
@@ -36,7 +36,7 @@
     "value": 8
   },
   "Terry McLaurin": {
-    "kept": false,
+    "kept": true,
     "value": 9
   },
   "Sammy Watkins": {
@@ -52,7 +52,7 @@
     "value": 10
   },
   "Myles Gaskin": {
-    "kept": false,
+    "kept": true,
     "value": 10
   },
   "Jared Goff": {
