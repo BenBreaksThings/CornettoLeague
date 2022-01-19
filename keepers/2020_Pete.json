@@ -20,11 +20,11 @@
     "value": 4
   },
   "CeeDee Lamb": {
-    "kept": false,
+    "kept": true,
     "value": 5
   },
   "Antonio Gibson": {
-    "kept": false,
+    "kept": true,
     "value": 8
   },
   "Lynn Bowden Jr.": {
@@ -44,7 +44,7 @@
     "value": 10
   },
   "Justin Herbert": {
-    "kept": false,
+    "kept": true,
     "value": 10
   },
   "Jalen Raegor": {
