@@ -4,7 +4,7 @@
     "value": 1
   },
   "Travis Kelce": {
-    "kept": false,
+    "kept": true,
     "value": 1
   },
   "Adam Thielen": {
@@ -64,7 +64,7 @@
     "value": 11
   },
   "Kareem Hunt": {
-    "kept": false,
+    "kept": true,
     "value": 11
   },
   "Boston Scott": {
@@ -72,7 +72,7 @@
     "value": 12
   },
   "Curtis Samuel": {
-    "kept": false,
+    "kept": true,
     "value": 13
   },
   "Derrick Henry": {
