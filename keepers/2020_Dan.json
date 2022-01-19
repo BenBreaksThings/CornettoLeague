@@ -19,7 +19,7 @@
     "kept": false,
     "value": 7
   },
-  "Tom BRady": {
+  "Tom Brady": {
     "kept": false,
     "value": 7
   },
@@ -52,23 +52,27 @@
     "value": 10
   },
   "Mike Williams": {
-    "kept": false,
+    "kept": true,
     "value": 11
   },
   "Chase Edmonds": {
-    "kept": false,
+    "kept": true,
     "value": 13
   },
   "New Orleans DST": {
     "kept": false,
     "value": 14
   },
-  "Nyheim HInes": {
+  "Nyheim Hines": {
     "kept": false,
     "value": 15
   },
   "Michael Thomas": {
     "kept": false,
     "value": 0
+  },
+  "Chase Claypool": {
+    "kept": true,
+    "value": 12
   }
 }
