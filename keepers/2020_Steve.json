@@ -1,10 +1,10 @@
 {
   "Chris Carson": {
-    "kept": false,
+    "kept": true,
     "value": 2
   },
   "Keenan Allen": {
-    "kept": false,
+    "kept": true,
     "value": 3
   },
   "James White": {
@@ -12,7 +12,7 @@
     "value": 6
   },
   "Lamar Jackson": {
-    "kept": false,
+    "kept": true,
     "value": 7
   },
   "Philip Rivers": {
