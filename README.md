@@ -24,55 +24,7 @@ Each team will have six bench spots that can be used to hold any position player
 One injured reserve slot per team will be allowed
 
 # SCORING
-Points will be added according to the following designation in a fraction-based scoring system:
-
-| Offensive Points            | Value                         |
-|-----------------------------|-------------------------------|
-| Completions                 | .25 points per completion     |
-| Passing yards               | 1 point per 25 yards passing. |
-| Passing Touchdowns          | 6 points                      |
-| Interceptions               | -1 points                     |
-| Rushing Attempts            | .1 point                      |
-| Rushing Yards               | 1 point per ten yards         |
-| Rushing Touchdowns          | 6 points                      |
-| Receptions                  | 1 point                       |
-| Reception Yards             | 1 point per ten yards         |
-| Reception Touchdowns        | 6 points                      |
-| Return Yards                | 1 point per 25 yards          |
-| Return Touchdowns           | 6 points                      |
-| 2 point conversions         | 2 points                      |
-| Fumbles Lost                | 2 points                      |
-| Offensive Fumble TD Return  | 6 points                      |
-| 40 Yard Completion          | 1 point                       |
-| 40 Yard Passing Touchdown   | 1 point                       |
-| 40 Yard Rushing Attempt     | 1 point                       |
-| 40 Yard Rushing Touchdown   | 1 point                       |
-| 40 Yard Reception           | 1 point                       |
-| 40 Yard Touchdown Reception | 1 point                       |
-
-| Kicker Points             | Value    |
-|---------------------------|----------|
-| Field Goals 0-39 Yards    | 3 points |
-| Field Goals 40-49 Yards   | 4 points |
-| Field Goals over 50 yards | 5 points |
-| Point After Attempts Made | 1 point  |
-
-| Defense / Special Teams Points   | Value                |
-|----------------------------------|----------------------|
-| Sack                             | 1 point              |
-| Interception                     | 2 points             |
-| Fumble Recovery                  | 2 points             |
-| Touchdown                        | 6 points             |
-| Safety                           | 2 points             |
-| Block Kick                       | 2 points             |
-| Return Yards                     | 1 point per 25 yards |
-| Kickoff & Punt Return Touchdowns | 6 points             |
-| 4th Down Stops                   | 1 point              |
-| 0 Points allowed                 | 10 points            |
-| 1-6 points allowed               | 7 points             |
-| 7-13 points allowed              | 4 points             |
-| 14-20 points allowed             | 1 point              |
-| 21 or more points allowed        | 0 points             |
+Scoring values will be stored in the league settings on the service hosting the league. To prevent incongruity between constution remaining up to date and actual scoring values, the tables have been removed from the constitution.
 
 # DRAFT & DRAFT ORDER
 - Drafts will be a Live Online Snaking Drafts. Those not in attendance and participating in real time will be subject to Yahoo! autodraft. Maximum participation being the goal, all attempts will be made to facilitate everyone’s participation.
@@ -102,7 +54,6 @@ Points will be added according to the following designation in a fraction-based 
 - Waivers will be managed by a continual rolling system. Once you use your waiver priority to obtain a player from the waiver wire, you will go to the bottom of the list. 
 - Players on the waiver wire will lock at the start of their game and will unlock on Wednesday morning. 
 - A free agent period will be active from Wednesday to the start of a player’s game on Thursday, Sunday, or Monday depending on when they play.
-- For more information regarding the Yahoo waiver settings, players are encouraged to look into the [Yahoo Waiver FAQ](https://help.yahoo.com/kb/SLN6427.html)
 
 # TRADES
 - All accepted trades will be alerted through Yahoo’s alert system. You will need to set your Yahoo account to alert you of trades through your settings. If you need help, please ask.
