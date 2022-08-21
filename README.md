@@ -27,10 +27,10 @@ One injured reserve slot per team will be allowed
 Scoring values will be stored in the league settings on the service hosting the league. To prevent incongruity between constution remaining up to date and actual scoring values, the tables have been removed from the constitution.
 
 # DRAFT & DRAFT ORDER
-- Drafts will be a Live Online Snaking Drafts. Those not in attendance and participating in real time will be subject to Yahoo! autodraft. Maximum participation being the goal, all attempts will be made to facilitate everyone’s participation.
-- **(Unlikely to occur again)** For the inaugural keeper season, and should there ever be an extentuation circumstance to reset the entirety of the league's keepers, the draft order will be determined by yahoo’s random assigned order one hour prior to the draft.
-- **(Current sustainment cycle)** Following the initial draft, draft order will be determined by reversing the previous year’s standings (e.g., the team that finished first will draft last the following year). 
--	In year’s of expansion or new team additions, new members will be placed at the back of the draft order with previous members taking their draft slots according to previous year’s standings, filling in any gaps.
+- Drafts will be a Live Online Snaking Drafts. Those not in attendance and participating in real time will be subject to autodrafting. Maximum participation being the goal, all attempts will be made to facilitate everyone’s participation.
+- Following the initial draft, draft order will be determined by reversing the previous year’s standings (e.g., the team that finished first will draft last the following year). 
+- In year’s of expansion or new team additions, new members will be placed at the back of the draft order with previous members taking their draft slots according to previous year’s standings, filling in any gaps.
+   - For players replacing previous season players that elected not to return for an additional season, they will adopt the departing player's draft spot.
 
 # KEEPERS
 - Keeper quantity is of an incremental growth pattern year over year to enable a legacy growth model. Should there ever be a cause for a complete league reset, the growth model will be bypassed and go direct to the maximum number of keepers. Current growth trajectory:
@@ -43,7 +43,7 @@ Scoring values will be stored in the league settings on the service hosting the 
 - Players will be kept for one round less their previous year’s draft value with one round maturation each following year. Once a player reaches past first round eligibility, they would go back into the player pool.
    - **Example:** you draft Ken Dorsey in the 3rd round in 2019. In 2020, he would be your second round selection. In 2021, he would be your first round selection. In 2022, he would return to the draftable player pool.
 
--	If two players are wanted to be kept for the same round value, a round earlier must be used to secure a player.
+- If two players are wanted to be kept for the same round value, a round earlier must be used to secure a player.
    - **Example:** you have two 7th round keepers; you would need to use both your 6th and 7th round picks to keep both players, you determine which player aligns to the 6th and which aligns to the 7th.
 -  An open spreadsheet will be kept in this repository for everyone to track the year to year keepers. This will add transparency in who intends to keep which players and inform owners of the status of said players.
 - Players picked up from the waiver wire receive a 10th round keeper value, unless they were drafted in that season, in which they will retain their drafted value. For instance, you pick up Marshawn Lynch off the waiver wire. He was not drafted in 2019. For 2020, he would be a 10th round selection. Contrary, if Marshawn Lynch were drafted in the 6th round in 2019, he would cost his team a 5th round selection in 2020.
@@ -56,11 +56,11 @@ Scoring values will be stored in the league settings on the service hosting the 
 - A free agent period will be active from Wednesday to the start of a player’s game on Thursday, Sunday, or Monday depending on when they play.
 
 # TRADES
-- All accepted trades will be alerted through Yahoo’s alert system. You will need to set your Yahoo account to alert you of trades through your settings. If you need help, please ask.
--  If you feel a trade is unfair or subject to collusion, let the commissioner know. It takes a lot to overturn a trade as the general feeling is that we are all adults playing in this league to enjoy ourselves, not corrupt the process.
+- All accepted trades will be alerted through the platform's alert system. Players are responsible for setting their own alerts for trades. If you need help, please ask.
+-  If you feel a trade is unfair or subject to collusion, let the commissioner know. Overturning a trade should be rare as the general feeling is that we are all adults playing in this league to enjoy ourselves, not corrupt the process.
 - The in season trade deadline will be the be the Friday of Week 10.
 - There is a weekly trade deadline of Friday for players involved in the following Sunday/Monday matchups and Wednesday for the following Thursday night matchup.
-- If you are wanting to shop a player openly, you may by adding them to your trade block via Yahoo!
+- If you are wanting to shop a player openly, it is recommended you add them to your `trade block`.
 
 # SCHEDULE & PLAYOFFS
 - Each team will play a regular season schedule of thirteen weeks. 
@@ -68,7 +68,7 @@ Scoring values will be stored in the league settings on the service hosting the 
 - Division winners will receive automatic bids to the playoffs. The other teams will be based on best finishing. 
 
 # LEAGUE DUES & PAYOUT STRUCTURE
-> League adopted paid structure starting with the 2022 season
+> League adopted paid structure starting with the 2022 season.
 
 League dues per team: `$20`
 
