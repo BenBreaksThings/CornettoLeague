@@ -68,12 +68,20 @@ Scoring values will be stored in the league settings on the service hosting the 
 - Division winners will receive automatic bids to the playoffs. The other teams will be based on best finishing. 
 
 # LEAGUE DUES & PAYOUT STRUCTURE
-- There are currently no plans to make this a money league. This can be changed following the inaugural season should everyone agree.
-   - This construct is currently out for a vote, awaiting a majority vote prior to making a determination of change.
+> League adopted paid structure starting with the 2022 season
+
+League dues per team: `$20`
+
+| Attribution                          | Payout ($) | Payout (%) |
+|--------------------------------------|------------|------------|
+| First Place                          | $150       | 62.5%      |
+| Second Place                         | $50        | 20.83%     |
+| Third Place                          | $25        | 10.42%     |
+| Highest Point Total (Regular Season) | $15        | 6.25%      |
+
 
 # NOTES
 - Side bets are allowed and encouraged with your weekly opponents. Unfair trades however, cannot be a stipulation of side bets. 
-- Any new members must be voted upon by the current members of the league prior to addition. 
 - Any team not setting a line-up two weeks in a row will be subject for dismissal from the league for the next season.
 - There will be only one email address per team and one owner per team.
 - Revisions to any matters of this constitution must be proposed, voted on, and passed with a two-thirds majority two days prior to the scheduled draft. Any matters proposed after that deadline will go into effect the following.
