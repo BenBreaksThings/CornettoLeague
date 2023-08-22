@@ -41,11 +41,14 @@ Scoring values will be stored in the league settings on the service hosting the 
    - Every year thereafter: 5 keepers
 
 - Players will be kept for one round less their previous year’s draft value with one round maturation each following year. Once a player reaches past first round eligibility, they would go back into the player pool.
-   - **Example:** you draft Ken Dorsey in the 3rd round in 2019. In 2020, he would be your second round selection. In 2021, he would be your first round selection. In 2022, he would return to the draftable player pool.
-
+```text
+**Example:** you draft Ken Dorsey in the 3rd round in 2019. In 2020, he would be your second round selection. In 2021, he would be your first round selection. In 2022, he would return to the draftable player pool.
+```
 - If two players are wanted to be kept for the same round value, a round earlier must be used to secure a player.
-   - **Example:** you have two 7th round keepers; you would need to use both your 6th and 7th round picks to keep both players, you determine which player aligns to the 6th and which aligns to the 7th.
--  An open spreadsheet will be kept in this repository for everyone to track the year to year keepers. This will add transparency in who intends to keep which players and inform owners of the status of said players.
+```text
+**Example:** you have two 7th round keepers; you would need to use both your 6th and 7th round picks to keep both players, you determine which player aligns to the 6th and which aligns to the 7th.
+```
+-  An open spreadsheet will be kept for everyone to track the year to year keepers. This will add transparency in who intends to keep which players and inform owners of the status of said players.
 - Players picked up from the waiver wire receive a 10th round keeper value, unless they were drafted in that season, in which they will retain their drafted value. For instance, you pick up Marshawn Lynch off the waiver wire. He was not drafted in 2019. For 2020, he would be a 10th round selection. Contrary, if Marshawn Lynch were drafted in the 6th round in 2019, he would cost his team a 5th round selection in 2020.
 - There will be a deadline assigned from year to year of when keepers are due. This date will be seven (7) days from the draft.
 - Once the season has completed, the free agent pool will lock and no players may be added. Trades from one team to another are allowed however. Please notify the commissioner to adjust rosters via the spreadsheet during the offseaon.
